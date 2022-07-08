@@ -1,3 +1,5 @@
+# DO NOT UPLOAD MY FILES TO OTHER SITES
+
 ## A collection of my mods for Assassin's Creed Syndicate
 
 ### Description
