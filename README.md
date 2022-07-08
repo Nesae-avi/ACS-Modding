@@ -2,8 +2,6 @@
 
 ## A collection of my mods for Assassin's Creed Syndicate
 
-### Description
-
 #### Centered Stealth Camera:
 This mod keeps the camera centered while in stealth mode.
 
