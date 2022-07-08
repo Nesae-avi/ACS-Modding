@@ -1,9 +1,0 @@
-##A collection of my mods for Assasisn's Creed Syndicate
-
-How to use:
-
-1. Copy the ACS_Launch.exe file and the "Mods" folder to the root game folder.
-2. Ensure that the "Mods" folder contains only relevant files.
-3. Launch the game by double clicking on ACS_Launch.exe.
-
-The program can be set to close automatically by passing "--close-when-finished" command line argument.
