@@ -1,5 +1,16 @@
 ## A collection of my mods for Assassin's Creed Syndicate
 
+### Description
+
+#### Centered Stealth Camera:
+This mod keeps the camera centered while in stealth mode.
+
+#### Fov Fix
+This mod increases the field of view. 
+
+#### Keep Hood On
+This mod allows to keep the hood on in free roam. 
+
 ### How to use:
 
 1. Copy the ACS_Launch.exe file and the "Mods" folder to the root game folder.
