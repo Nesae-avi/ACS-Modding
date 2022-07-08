@@ -1,4 +1,4 @@
-## A collection of my mods for Assasisn's Creed Syndicate
+## A collection of my mods for Assassin's Creed Syndicate
 
 ### How to use:
 
